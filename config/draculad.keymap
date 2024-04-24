@@ -10,6 +10,8 @@
 
 &mt { tapping-term-ms = <800>; };
 
+&lt { quick-tap-ms = <125>; };
+
 / {
     behaviors {
         hold_tap_modifier: hold_tap_modifier {
